@@ -1,4 +1,4 @@
 # projecto
-FInal Year Project
-
-Object tracking and pose estimation in real time
+Final Year Project
+Still Under Progress
+Object tracking and Pose Estimated grasping in real time using a 6DoF Manipulator
